@@ -1,4 +1,3 @@
-// Arreglo de productos
 const productos = [
     { nombre: "Teclado Mecánico", precio: 120, categoría: "Electrónica" },
     { nombre: "Cuaderno", precio: 45, categoría: "Papelería" },
