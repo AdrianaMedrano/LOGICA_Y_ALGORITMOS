@@ -1,0 +1,13 @@
+{
+    "name": "sliding-window-longest-word",
+    "version": "1.0.0",
+    "description": "Herramienta web que utiliza la técnica Sliding Window para encontrar la palabra más larga en un texto.",
+    "author": "Tu Nombre",
+    "license": "MIT",
+    "main": "script.js",
+    "scripts": {
+      "start": "serve ."
+    },
+    "dependencies": {},
+    "devDependencies": {}
+  }  
