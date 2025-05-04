@@ -1,0 +1,14 @@
+{
+    "name": "recursion-backtracking-gift-search",
+    "version": "1.0.1",
+    "description": "Proyecto que usa recursión para buscar un regalo específico en una lista con backtracking conceptual y validación de entradas.",
+    "author": "Tu Nombre",
+    "license": "MIT",
+    "main": "script.js",
+    "scripts": {
+      "start": "serve ."
+    },
+    "dependencies": {},
+    "devDependencies": {}
+  }
+  

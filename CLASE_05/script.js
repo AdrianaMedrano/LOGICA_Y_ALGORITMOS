@@ -1,6 +1,3 @@
-// script.js
-// Usamos la técnica Sliding Window para recorrer cada palabra
-
 document.getElementById('findButton').addEventListener('click', () => {
     const text = document.getElementById('inputText').value.trim();
     if (!text) {
