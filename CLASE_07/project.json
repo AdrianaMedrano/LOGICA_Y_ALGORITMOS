@@ -1,0 +1,13 @@
+{
+    "name": "divide-and-conquer-max-animated",
+    "version": "1.1.0",
+    "description": "Visualización animada del paradigma Divide and Conquer para encontrar el máximo en un arreglo.",
+    "author": "Tu Nombre",
+    "license": "MIT",
+    "main": "script.js",
+    "scripts": {
+      "start": "serve ."
+    },
+    "dependencies": {},
+    "devDependencies": {}
+  }
